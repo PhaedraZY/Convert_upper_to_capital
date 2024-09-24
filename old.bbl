@@ -1,0 +1,713 @@
+\begin{thebibliography}{114}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Chen et~al.(2023)Chen, Li, Wang, Cui, and Sun]{apply-Soft}
+Chen H, Li W, Wang Z, et~al.
+\newblock A robust offline data-driven evolutionary optimization algorithm for solving expensive soft pneumatic actuator design\allowbreak[C/Ol]//\allowbreak
+Gecco '23 Companion: Proceedings of the Companion Conference on Genetic and Evolutionary Computation.
+\newblock New York, Ny, Usa: Association for Computing Machinery, 2023: 2280–2281.
+\newblock \url{https://doi.org/10.1145/3583133.3596304}.
+
+\bibitem[Sun et~al.(2017)Sun, Jin, Cheng, Ding, and Zeng]{2017Surrogate}
+Sun C, Jin Y, Cheng R, et~al.
+\newblock Surrogate-assisted cooperative swarm optimization of high-dimensional expensive problems\allowbreak[J].
+\newblock Ieee Transactions on Evolutionary Computation, 2017, Pp\allowbreak (99): 1-1.
+
+\bibitem[Koziel et~al.(2016)Koziel and Bekasiewicz]{apply_Koziel2016332}
+Koziel S, Bekasiewicz A.
+\newblock Multi-objective optimization of expensive electromagnetic simulation models\allowbreak[J/Ol].
+\newblock Applied Soft Computing, 2016, 47: 332-342.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S1568494616302435}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.asoc.2016.05.033}.
+
+\bibitem[Crouch et~al.(1995)Crouch, Lamnabhi-Lagarrigue, and Pinchon]{1995Some}
+Crouch P~E, Lamnabhi-Lagarrigue F, Pinchon D.
+\newblock Some realizations of algorithms for nonlinear input-output systems\allowbreak[J].
+\newblock International Journal of Control, 1995, 62\allowbreak (4): 941-960.
+
+\bibitem[Jin et~al.(2005)Jin and Branke]{YaochuJin}
+Jin Y, Branke J.
+\newblock Evolutionary optimization in uncertain environments-a survey\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2005, 9\allowbreak (3): 303-317.
+\newblock Doi: \doi{10.1109/Tevc.2005.846356}.
+
+\bibitem[Wang et~al.(2020)Wang and Jin]{2019wanghanding}
+Wang H, Jin Y.
+\newblock A random forest-assisted evolutionary algorithm for data-driven constrained multiobjective combinatorial optimization of trauma systems\allowbreak[J/Ol].
+\newblock Ieee Transactions on Cybernetics, 2020, 50\allowbreak (2): 536-549.
+\newblock Doi: \doi{10.1109/Tcyb.2018.2869674}.
+
+\bibitem[Ong et~al.(2003)Ong, Lum, Nair, Shi, and Zhang]{2003Ong}
+Ong Y, Lum K, Nair P, et~al.
+\newblock Global convergence of unconstrained and bound constrained surrogate-assisted evolutionary search in aerodynamic shape design\allowbreak[C/Ol]//\allowbreak
+The 2003 Congress on Evolutionary Computation, 2003. Cec '03.: Vol.~3.
+\newblock 2003: 1856-1863 Vol.3.
+\newblock Doi: \doi{10.1109/Cec.2003.1299898}.
+
+\bibitem[Liu et~al.(2023)Liu, Yang, Xu, Qiu, and Gao]{Liu2023282}
+Liu Y, Yang Z, Xu D, et~al.
+\newblock A surrogate-assisted differential evolution for expensive constrained optimization problems involving mixed-integer variables\allowbreak[J/Ol].
+\newblock Information Sciences, 2023, 622: 282-302.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025522014906}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2022.11.167}.
+
+\bibitem[Koziel et~al.(2013)Koziel and Ogurtsov]{Koziel}
+Koziel S, Ogurtsov S.
+\newblock Multi-objective design of antennas using variable-fidelity simulations and surrogate models\allowbreak[J/Ol].
+\newblock Ieee Transactions on Antennas and Propagation, 2013, 61\allowbreak (12): 5931-5939.
+\newblock Doi: \doi{10.1109/Tap.2013.2283599}.
+
+\bibitem[He et~al.(2023)He, Zhang, Gong, and Ji]{ele-same}
+He C, Zhang Y, Gong D, et~al.
+\newblock A review of surrogate-assisted evolutionary algorithms for expensive optimization problems\allowbreak[J/Ol].
+\newblock Expert Syst. Appl., 2023, 217\allowbreak (C).
+\newblock \url{https://doi.org/10.1016/j.eswa.2022.119495}.
+
+\bibitem[Li et~al.(2022)Li, Zhan, and Zhang]{ele-same2}
+Li J~Y, Zhan Z~H, Zhang J.
+\newblock Evolutionary computation for expensive optimization: A survey\allowbreak[J/Ol].
+\newblock Machine Intelligence Research, 2022, 19\allowbreak (1): 3-23.
+\newblock \url{https://doi.org/10.1007/s11633-022-1317-4}.
+
+\bibitem[Box et~al.(1975)Box and Draper]{Rsm-1975}
+Box G~E~P, Draper N~R.
+\newblock {Robust designs}\allowbreak[J/Ol].
+\newblock Biometrika, 1975, 62\allowbreak (2): 347-352.
+\newblock \url{https://doi.org/10.1093/biomet/62.2.347}.
+
+\bibitem[穆雪峰\ 等(2005)穆雪峰, 姚卫星, 余雄庆, 刘克龙, and 薛飞]{16-2005}
+穆雪峰, 姚卫星, 余雄庆, 等.
+\newblock 多学科设计优化中常用代理模型的研究\allowbreak[J].
+\newblock 计算力学学报, 2005, 22\allowbreak (5): 5.
+
+\bibitem[Sacks et~al.(1989)Sacks, Welch, Mitchell, and Wynn]{Sacks-kriging-1989}
+Sacks J, Welch W~J, Mitchell T~J, et~al.
+\newblock {Design and Analysis of Computer Experiments}\allowbreak[J/Ol].
+\newblock Statistical Science, 1989, 4\allowbreak (4): 409 - 423.
+\newblock \url{https://doi.org/10.1214/ss/1177012413}.
+
+\bibitem[Carla~Currin et~al.(1991)Carla~Currin and Ylvisaker]{Currin-Kriging-1991}
+Carla~Currin M~M, Toby~Mitchell, Ylvisaker D.
+\newblock Bayesian prediction of deterministic functions, with applications to the design and analysis of computer experiments\allowbreak[J/Ol].
+\newblock Journal of the American Statistical Association, 1991, 86\allowbreak (416): 953-963.
+\newblock \url{https://www.tandfonline.com/doi/abs/10.1080/01621459.1991.10475138}.
+
+\bibitem[Barthelemy et~al.(1993)Barthelemy and Haftka]{Barthelemy1993}
+Barthelemy J~F~M, Haftka R~T.
+\newblock Approximation concepts for optimum structural design --- a review\allowbreak[J/Ol].
+\newblock Structural optimization, 1993, 5\allowbreak (3): 129-144.
+\newblock \url{https://doi.org/10.1007/Bf01743349}.
+
+\bibitem[Reuther et~al.(1996)Reuther, Jameson, Farmer, Martinelli, and Saunders]{Reuther1996AerodynamicSo}
+Reuther J, Jameson A, Farmer J, et~al.
+\newblock Aerodynamic shape optimization of complex aircraft configurations via an adjoint formulation\allowbreak[C/Ol]//\allowbreak
+1996.
+\newblock \url{https://api.semanticscholar.org/CorpusId:14722181}.
+
+\bibitem[Friedman(1991)]{Friedman1991}
+Friedman J~H.
+\newblock {Multivariate Adaptive Regression Splines}\allowbreak[J/Ol].
+\newblock The Annals of Statistics, 1991, 19\allowbreak (1): 1 - 67.
+\newblock \url{https://doi.org/10.1214/aos/1176347963}.
+
+\bibitem[Jones et~al.(1998)Jones, Schonlau, and Welch]{Jones1998}
+Jones D~R, Schonlau M, Welch W~J.
+\newblock Efficient global optimization of expensive black-box functions\allowbreak[J/Ol].
+\newblock Journal of Global Optimization, 1998, 13\allowbreak (4): 455-492.
+\newblock \url{https://doi.org/10.1023/A:1008306431147}.
+
+\bibitem[For(2008)]{Forrester2008}
+Exploring and exploiting a surrogate\allowbreak[M/Ol]//\allowbreak
+Engineering Design via Surrogate Modelling.
+\newblock John Wiley & Sons, Ltd, 2008: 77-107.
+\newblock \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470770801.ch3}.
+\newblock Doi: \doi{https://doi.org/10.1002/9780470770801.ch3}.
+
+\bibitem[Jin et~al.(2002)Jin, Olhofer, and Sendhoff]{Jyc2002}
+Jin Y, Olhofer M, Sendhoff B.
+\newblock A framework for evolutionary optimization with approximate fitness functions\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2002, 6\allowbreak (5): 481-494.
+\newblock Doi: \doi{10.1109/Tevc.2002.800884}.
+
+\bibitem[Jiawei~Yang et~al.(2022)Jiawei~Yang and Sun]{Yjw2003-Saea}
+Jiawei~Yang W~W~W~Z~H~Z, Zeping~Wu, Sun J.
+\newblock A surrogate-based optimization method for mixed-variable aircraft design\allowbreak[J/Ol].
+\newblock Engineering Optimization, 2022, 54\allowbreak (1): 113-133.
+\newblock \url{https://doi.org/10.1080/0305215X.2020.1855156}.
+
+\bibitem[王红涛\ 等(2009)王红涛, 竺晓程, and 杜朝辉]{18-2009}
+王红涛, 竺晓程, 杜朝辉.
+\newblock 基于Kriging代理模型的自适应序贯优化方法\allowbreak[J].
+\newblock 计算机工程与应用, 2009, 45\allowbreak (26): 4.
+
+\bibitem[Regis et~al.(2007)Regis and Shoemaker]{23-2007A}
+Regis R~G, Shoemaker C~A.
+\newblock A stochastic radial basis function method for the global optimization of expensive functions\allowbreak[J].
+\newblock Informs Journal on Computing, 2007, 19\allowbreak (4): 497-509.
+
+\bibitem[Ceylan et~al.(2020)Ceylan, Taskin, and Paudyal]{spri02-2020A}
+Ceylan O, Taskin G, Paudyal S.
+\newblock A comparative study of surrogate based learning methods in solving power flow problem\allowbreak[C]//\allowbreak
+2020 Ieee Power \& Energy Society General Meeting (Pesgm).
+\newblock 2020.
+
+\bibitem[史俊\ 等(2022)史俊, 徐略勤, 周建庭, and 李修君]{24-2022}
+史俊, 徐略勤, 周建庭, 等.
+\newblock 纵飘斜拉桥基于响应面法的粘滞阻尼器参数优化分析\allowbreak[J].
+\newblock 工程抗震与加固改造, 2022, 44\allowbreak (1): 80-87, 31.
+
+\bibitem[Box et~al.(1951)Box and Wilson]{25-1951On}
+Box G~E~P, Wilson K~B~J~R.
+\newblock On the experimental attainment of optimum conditions\allowbreak[J].
+\newblock Journal of the Royal Statistical Society, 1951, 13\allowbreak (1): 1-45.
+
+\bibitem[李放(2020)]{26}
+李放.
+\newblock 基于集成学习法的船舶结构可靠性优化设计研究\allowbreak[D].
+\newblock 上海交通大学, 2020.
+
+\bibitem[Forrester et~al.(2009)Forrester and Keane]{27-2009Recent}
+Forrester A~I~J, Keane A~J.
+\newblock Recent advances in surrogate-based optimization\allowbreak[J].
+\newblock Progress in Aerospace Sciences, 2009, 45\allowbreak (1): 50-79.
+
+\bibitem[潘明\ 等(2020)潘明 and 柯晓霞]{pmzl2020}
+潘明, 柯晓霞.
+\newblock 系统建模优化方法及存储介质\allowbreak[Z].
+\newblock 2020.
+
+\bibitem[Dolgui et~al.(1997)Dolgui and Ofitserov]{1997rf}
+Dolgui A, Ofitserov D.
+\newblock A stochastic method for discrete and continuous optimization in manufacturing systems\allowbreak[J].
+\newblock journal of Intelligent Manufacturing, 1997, 8\allowbreak (5): 405-413.
+
+\bibitem[Mukesh et~al.(2014)Mukesh, Lingadurai, and Selvakumar]{Mukesh2014}
+Mukesh R, Lingadurai K, Selvakumar U.
+\newblock Kriging methodology for surrogate-based airfoil shape optimization\allowbreak[J/Ol].
+\newblock Arabian Journal for Science and Engineering, 2014, 39\allowbreak (10): 7363-7373.
+\newblock \url{https://doi.org/10.1007/s13369-014-1327-9}.
+
+\bibitem[You et~al.(2009)You, Yang, Wang, and Jia]{2009Kriging}
+You H, Yang M, Wang D, et~al.
+\newblock Kriging model combined with latin hypercube sampling for surrogate modeling of analog integrated circuit performance\allowbreak[C]//\allowbreak
+Quality of Electronic Design, Isqed Quality Electronic Design.
+\newblock 2009.
+
+\bibitem[潘锋\ 等(2011)潘锋 and 朱平]{Pf2011}
+潘锋, 朱平.
+\newblock 面向约束优化的改进响应面法在车身轻量化设计中的应用\allowbreak[J].
+\newblock 机械工程学报, 2011, 47\allowbreak (10): 6.
+
+\bibitem[Jiang et~al.(2017)Jiang, Shoemaker, and Liu]{2017Time}
+Jiang P, Shoemaker C~A, Liu X.
+\newblock Time-varying hyperparameter strategies for radial basis function surrogate-based global optimization algorithm\allowbreak[C]//\allowbreak
+2017 Ieee International Conference on Industrial Engineering and Engineering Management (Ieem).
+\newblock 2017.
+
+\bibitem[郑源\ 等(2021)郑源, 付晓刚, and 张玉龙]{2021rf}
+郑源, 付晓刚, 张玉龙.
+\newblock 数据驱动进化优化在主动配电网重构中的应用\allowbreak[D].
+\newblock 上海电机学院, 2021.
+
+\bibitem[Chugh et~al.(2018)Chugh, Jin, Miettinen, Hakanen, and Sindhya]{2018A}
+Chugh T, Jin Y, Miettinen K, et~al.
+\newblock A surrogate-assisted reference vector guided evolutionary algorithm for computationally expensive many-objective optimization\allowbreak[J].
+\newblock Ieee Transactions on Evolutionary Computation, 2018, 22\allowbreak (1): 129-142.
+
+\bibitem[Huang et~al.(2018)Huang, Radi, El~Hami, and Bai]{relate-2018cma}
+Huang C, Radi B, El~Hami A, et~al.
+\newblock Cma evolution strategy assisted by kriging model and approximate ranking\allowbreak[J/Ol].
+\newblock Applied Intelligence, 2018, 48\allowbreak (11): 4288-4304.
+\newblock Doi: \doi{10.1007/s10489-018-1193-3}.
+
+\bibitem[Hao et~al.(2020)Hao, Zhang, Lu, and Zhou]{19-relate}
+Hao H, Zhang J, Lu X, et~al.
+\newblock Binary relation learning and classifying for preselection in evolutionary algorithms\allowbreak[J/Ol].
+\newblock Ieee Transactions On Evolutionary Computation, 2020, 24\allowbreak (6): 1125-1139.
+\newblock Doi: \doi{10.1109/Tevc.2020.2986348}.
+
+\bibitem[Harada(2023)]{rank}
+Harada T.
+\newblock A pairwise ranking estimation model for surrogate-assisted evolutionary algorithms\allowbreak[J/Ol].
+\newblock Complex \& Intelligent Systems, 2023.
+\newblock Doi: \doi{10.1007/s40747-023-01113-4}.
+
+\bibitem[Starodubcev et~al.(2022)Starodubcev, Nikitin, and Kalyuzhnaya]{Cec02}
+Starodubcev N~O, Nikitin N~O, Kalyuzhnaya A~V.
+\newblock Surrogate-assisted evolutionary generative design of breakwaters using deep convolutional networks\allowbreak[C/Ol]//\allowbreak
+2022 Ieee Congress on Evolutionary Computation (Cec).
+\newblock 2022: 1-8.
+\newblock Doi: \doi{10.1109/Cec55065.2022.9870336}.
+
+\bibitem[Li et~al.(2019)Li, He, and Yan]{2019Ibea-Svm}
+Li H, He F, Yan X.
+\newblock Ibea-svm: An indicator-based evolutionary algorithm based on pre-selection with classification guided by svm\allowbreak[J].
+\newblock 高校应用数学学报B辑, 2019, 34\allowbreak (1): 1-26.
+
+\bibitem[Pan et~al.(2018)Pan, He, Tian, Wang, Zhang, and Jin]{class2018}
+Pan L, He C, Tian Y, et~al.
+\newblock A classification-based surrogate-assisted evolutionary algorithm for expensive many-objective optimization\allowbreak[J].
+\newblock Ieee transactions on evolutionary computation, 2018.
+
+\bibitem[Zhang et~al.(2018)Zhang, Zhou, and Zhang]{2018Preselection}
+Zhang J, Zhou A, Zhang G.
+\newblock Preselection via classification: a case study on global optimisation\allowbreak[J].
+\newblock International Journal of Bio-Inspired Computation, 2018, 11\allowbreak (4).
+
+\bibitem[Zhou et~al.(2019)Zhou, Zhang, Sun, and Zhang]{2019Fuzzy}
+Zhou A, Zhang J, Sun J, et~al.
+\newblock Fuzzy-classification assisted solution preselection in evolutionary optimization\allowbreak[C]//\allowbreak
+Aaai Conference on Artificial Intelligence: Thirty-Third Aaai Conference On Artificial Intelligence / Thirty-First Innovative Applications Of Artificial Intelligence Conference / Ninth Aaai Symposium On Educational Advances In Artificial Intelligence.
+\newblock 2275 E Bayshore Rd, Ste 160, Palo Alto, Ca 94303 Usa: Assoc Advancement Artificial Intelligence, 2019: 2403-2410.
+
+\bibitem[Zhang et~al.(2018)Zhang, Zhou, Tang, and Zhang]{Zhang2018388}
+Zhang J, Zhou A, Tang K, et~al.
+\newblock Preselection via classification: A case study on evolutionary multiobjective optimization\allowbreak[J/Ol].
+\newblock Information Sciences, 2018, 465: 388-403.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025518305048}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2018.06.073}.
+
+\bibitem[Wu et~al.(2022)Wu, Ding, and Chen]{Wu2022-13th}
+Wu H, Ding J, Chen Q.
+\newblock Gaussian process-assisted evolutionary algorithm for constrained expensive multi-objective optimization\allowbreak[C/Ol]//\allowbreak
+2022 13th Asian Control Conference (Ascc).
+\newblock 2022: 1027-1032.
+\newblock Doi: \doi{10.23919/Ascc56756.2022.9828304}.
+
+\bibitem[Regis(2016)]{Regis2016140}
+Regis R~G.
+\newblock Multi-objective constrained black-box optimization using radial basis function surrogates\allowbreak[J/Ol].
+\newblock Journal of Computational Science, 2016, 16: 140-155.
+\newblock \url{https://www-sciencedirect-com-s.libyc.nudt.edu.cn:443/science/article/pii/S1877750316300904}.
+\newblock Doi: \doi{https://doi-org-s.libyc.nudt.edu.cn:443/10.1016/j.jocs.2016.05.013}.
+
+\bibitem[Jiao et~al.(2019)Jiao, Zeng, Li, Jiang, and Jin]{Jiao201980}
+Jiao R, Zeng S, Li C, et~al.
+\newblock A complete expected improvement criterion for gaussian process assisted highly constrained expensive optimization\allowbreak[J/Ol].
+\newblock Information Sciences, 2019, 471: 80-96.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025518306923}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2018.09.003}.
+
+\bibitem[Feliot et~al.(2017)Feliot, Bect, and Vazquez]{36Feliot}
+Feliot P, Bect J, Vazquez E.
+\newblock A bayesian approach to constrained single- and multi-objective optimization\allowbreak[J/Ol].
+\newblock Journal of Global Optimization, 2017, 67\allowbreak (1): 97-133.
+\newblock \url{https://doi.org/10.1007/s10898-016-0427-3}.
+
+\bibitem[Zhan et~al.(2017)Zhan, Cheng, and Liu]{38Zhan2017956}
+Zhan D, Cheng Y, Liu J.
+\newblock Expected improvement matrix-based infill criteria for expensive multiobjective optimization\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2017, 21\allowbreak (6): 956 – 975.
+\newblock \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048585582&doi=10.1109%2fTevc.2017.2697503&partnerId=40&md5=ea401f61ef9eeb58e4e5fd4f4420b356}.
+\newblock Doi: \doi{10.1109/Tevc.2017.2697503}.
+
+\bibitem[Jiang et~al.(2021)Jiang, Cheng, Yi, and Liu]{Jiang2021728}
+Jiang P, Cheng Y, Yi J, et~al.
+\newblock An efficient constrained global optimization algorithm with a clustering-assisted multiobjective infill criterion using gaussian process regression for expensive problems\allowbreak[J/Ol].
+\newblock Information Sciences, 2021, 569: 728-745.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025521004618}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2021.05.015}.
+
+\bibitem[Zeng et~al.(2022)Zeng, Cheng, and Liu]{Zeng20221641}
+Zeng Y, Cheng Y, Liu J.
+\newblock An efficient global optimization algorithm for expensive constrained black-box problems by reducing candidate infilling region\allowbreak[J/Ol].
+\newblock Information Sciences, 2022, 609: 1641-1669.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025522008581}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2022.07.162}.
+
+\bibitem[Dong et~al.(2021)Dong, Wang, Fu, and Song]{Dong2021404}
+Dong H, Wang P, Fu C, et~al.
+\newblock Kriging-assisted teaching-learning-based optimization (ktlbo) to solve computationally expensive constrained problems\allowbreak[J/Ol].
+\newblock Information Sciences, 2021, 556: 404-435.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025520309816}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2020.09.073}.
+
+\bibitem[Liu et~al.(2014)Liu, Zhao, Reynaert, and Gielen]{2014Liu}
+Liu B, Zhao D, Reynaert P, et~al.
+\newblock Gaspad: A general and efficient mm-wave integrated circuit synthesis method based on surrogate model assisted evolutionary algorithm\allowbreak[J/Ol].
+\newblock Ieee Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2014, 33\allowbreak (2): 169-182.
+\newblock Doi: \doi{10.1109/Tcad.2013.2284109}.
+
+\bibitem[Datta et~al.(2016)Datta, Rituparna, Regis, and Rommel]{Datta2016A}
+Datta, Rituparna, Regis, et~al.
+\newblock A surrogate-assisted evolution strategy for constrained multi-objective optimization.\allowbreak[J].
+\newblock Expert Systems with Applications, 2016.
+
+\bibitem[Goh et~al.(2011)Goh, Lim, Ma, Ong, and Dutta]{2011Goh}
+Goh C~K, Lim D, Ma L, et~al.
+\newblock A surrogate-assisted memetic co-evolutionary algorithm for expensive constrained optimization problems\allowbreak[C/Ol]//\allowbreak
+2011 Ieee Congress of Evolutionary Computation (Cec).
+\newblock 2011: 744-749.
+\newblock Doi: \doi{10.1109/Cec.2011.5949693}.
+
+\bibitem[Liu et~al.(2023)Liu, Liu, Jin, Li, and Zheng]{de-rbf}
+Liu Y, Liu J, Jin Y, et~al.
+\newblock A surrogate-assisted two-stage differential evolution for expensive constrained optimization\allowbreak[J/Ol].
+\newblock Ieee Transactions on Emerging Topics in Computational Intelligence, 2023, 7\allowbreak (3): 715-730.
+\newblock Doi: \doi{10.1109/Tetci.2023.3240221}.
+
+\bibitem[Yang et~al.(2020)Yang, Qiu, Gao, Cai, Jiang, and Chen]{Yang202050}
+Yang Z, Qiu H, Gao L, et~al.
+\newblock Surrogate-assisted classification-collaboration differential evolution for expensive constrained optimization problems\allowbreak[J/Ol].
+\newblock Information Sciences, 2020, 508: 50-63.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025519308047}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2019.08.054}.
+
+\bibitem[Handoko et~al.(2008)Handoko, Keong, and Soon]{2008Handoko}
+Handoko S~D, Keong K~C, Soon O~Y.
+\newblock Using classification for constrained memetic algorithm: A new paradigm\allowbreak[C/Ol]//\allowbreak
+2008 Ieee International Conference on Systems, Man and Cybernetics.
+\newblock 2008: 547-552.
+\newblock Doi: \doi{10.1109/Icsmc.2008.4811334}.
+
+\bibitem[Wei et~al.(2023)Wei, Chen, and Zhang]{2023wei}
+Wei F~F, Chen W~N, Zhang J.
+\newblock A hybrid regressor and classifier-assisted evolutionary algorithm for expensive optimization with incomplete constraint information\allowbreak[J/Ol].
+\newblock Ieee Transactions on Systems, Man, and Cybernetics: Systems, 2023, 53\allowbreak (8): 5071-5083.
+\newblock Doi: \doi{10.1109/Tsmc.2023.3259947}.
+
+\bibitem[Belakaria et~al.(2020)Belakaria, Deshwal, and Doppa]{2020Uncertainty}
+Belakaria S, Deshwal A, Doppa J~R.
+\newblock Uncertainty aware search framework for multi-objective bayesian optimization with constraints\allowbreak[Z].
+\newblock 2020.
+
+\bibitem[Liu et~al.(2017)Liu, Grout, and Nikolaeva]{spri18-2017}
+Liu B, Grout V, Nikolaeva A.
+\newblock Efficient global optimization of actuator based on a surrogate model assisted hybrid algorithm\allowbreak[J].
+\newblock Ieee Transactions on Industrial Electronics, 2017, Pp\allowbreak (99): 1-1.
+
+\bibitem[Wei et~al.(2023)Wei, Chen, Li, Jeon, and Zhang]{2023wei2}
+Wei F~F, Chen W~N, Li Q, et~al.
+\newblock Distributed and expensive evolutionary constrained optimization with on-demand evaluation\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2023, 27\allowbreak (3): 671-685.
+\newblock Doi: \doi{10.1109/Tevc.2022.3177936}.
+
+\bibitem[Bagheri et~al.(2016)Bagheri, Konen, and Back]{BagheriS}
+Bagheri S, Konen W, Back T.
+\newblock Equality constraint handling for surrogate-assisted constrained optimization\allowbreak[C/Ol]//\allowbreak
+2016 Ieee Congress on Evolutionary Computation (Cec).
+\newblock 2016: 1924-1931.
+\newblock Doi: \doi{10.1109/Cec.2016.7744023}.
+
+\bibitem[Yang et~al.(2019)Yang, Qiu, Gao, Jiang, Chen, and Cai]{2021Yang}
+Yang Z, Qiu H, Gao L, et~al.
+\newblock A novel surrogate-assisted differential evolution for expensive optimization problems with both equality and inequality constraints\allowbreak[C/Ol]//\allowbreak
+2019 Ieee Congress on Evolutionary Computation (Cec).
+\newblock 2019: 1688-1695.
+\newblock Doi: \doi{10.1109/Cec.2019.8790113}.
+
+\bibitem[Yang et~al.(2019)Yang, Qiu, Gao, Jiang, Chen, and Cai]{Liu-constrain}
+Yang Z, Qiu H, Gao L, et~al.
+\newblock A novel surrogate-assisted differential evolution for expensive optimization problems with both equality and inequality constraints\allowbreak[C/Ol]//\allowbreak
+2019 Ieee Congress on Evolutionary Computation (Cec).
+\newblock 2019: 1688-1695.
+\newblock Doi: \doi{10.1109/Cec.2019.8790113}.
+
+\bibitem[Spettel et~al.(2020)Spettel and Beyer]{Bayer-equal}
+Spettel P, Beyer H~G.
+\newblock Matrix adaptation evolution strategies for optimization under nonlinear equality constraints\allowbreak[J/Ol].
+\newblock Swarm and Evolutionary Computation, 2020, 54: 100653.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S2210650219305115}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.swevo.2020.100653}.
+
+\bibitem[Zhou et~al.(2024)Zhou, Cui, Xu, Zhu, Zhao, and Abusorrah]{Hepsurveys}
+Zhou M, Cui M, Xu D, et~al.
+\newblock Evolutionary optimization methods for high-dimensional expensive problems: A survey\allowbreak[J/Ol].
+\newblock Ieee/Caa Journal of Automatica Sinica, 2024, 11\allowbreak (5): 1092-1105.
+\newblock Doi: \doi{10.1109/Jas.2024.124320}.
+
+\bibitem[Wang et~al.(2022)Wang, Gao, and Li]{Wang2022174}
+Wang X, Gao L, Li X.
+\newblock Multiple surrogates and offspring-assisted differential evolution for high-dimensional expensive problems\allowbreak[J/Ol].
+\newblock Information Sciences, 2022, 592: 174-191.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025522000810}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2022.01.052}.
+
+\bibitem[Chen et~al.(2021)Chen, Li, Zhang, Xue, Wang, Luo, Yao, and Yao]{Chen2021228}
+Chen G, Li Y, Zhang K, et~al.
+\newblock Efficient hierarchical surrogate-assisted differential evolution for high-dimensional expensive optimization\allowbreak[J/Ol].
+\newblock Information Sciences, 2021, 542: 228-246.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025520306332}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2020.06.045}.
+
+\bibitem[Zhang et~al.(2022)Zhang, Ji, Gao, Gong, and Sun]{ds1}
+Zhang Y, Ji X~F, Gao X~Z, et~al.
+\newblock Objective-constraint mutual-guided surrogate-based particle swarm optimization for expensive constrained multimodal problems\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2022: 1-1.
+\newblock Doi: \doi{10.1109/Tevc.2022.3182810}.
+
+\bibitem[{De Falco} et~al.(2019){De Falco}, {Della Cioppa}, and Trunfio]{Defalco20191}
+{De Falco} I, {Della Cioppa} A, Trunfio G~A.
+\newblock Investigating surrogate-assisted cooperative coevolution for large-scale global optimization\allowbreak[J/Ol].
+\newblock Information Sciences, 2019, 482: 1-26.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S002002551930009X}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2019.01.009}.
+
+\bibitem[Wei et~al.(2020)Wei, Chen, Yang, Deng, and Zhang]{2020wei}
+Wei F~F, Chen W~N, Yang Q, et~al.
+\newblock A classifier-assisted level-based learning swarm optimizer for expensive optimization\allowbreak[J].
+\newblock Ieee Transactions on Evolutionary Computation, 2020, Pp\allowbreak (99): 1-1.
+
+\bibitem[Sun et~al.(2022)Sun, Sun, Li, Zhang, and Akhtar]{Sun2022226}
+Sun M, Sun C, Li X, et~al.
+\newblock Surrogate ensemble assisted large-scale expensive optimization with random grouping\allowbreak[J/Ol].
+\newblock Information Sciences, 2022, 615: 226-237.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025522011148}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2022.09.063}.
+
+\bibitem[Si et~al.(2023)Si, Zhang, Tian, Yang, Zhang, and Jin]{largescale-multiobjective}
+Si L, Zhang X, Tian Y, et~al.
+\newblock Linear subspace surrogate modeling for large-scale expensive single/multi-objective optimization\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2023: 1-1.
+\newblock Doi: \doi{10.1109/Tevc.2023.3319640}.
+
+\bibitem[Zhao et~al.(2020)Zhao, Zhang, Chen, Zhao, Yao, Sun, Huang, and Yao]{Zhao2020107192}
+Zhao M, Zhang K, Chen G, et~al.
+\newblock A surrogate-assisted multi-objective evolutionary algorithm with dimension-reduction for production optimization\allowbreak[J/Ol].
+\newblock Journal of Petroleum Science and Engineering, 2020, 192: 107192.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0920410520302783}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.petrol.2020.107192}.
+
+\bibitem[Tan et~al.(2020)Tan and Wang]{Ls-Fs-Mo}
+Tan Z, Wang H.
+\newblock A kriging-assisted evolutionary algorithm using feature selection for expensive sparse multi-objective optimization\allowbreak[C/Ol]//\allowbreak
+2020 Ieee Congress on Evolutionary Computation (Cec).
+\newblock 2020: 1-8.
+\newblock Doi: \doi{10.1109/Cec48606.2020.9185825}.
+
+\bibitem[Cui et~al.(2022)Cui, Li, Zhou, and Abusorrah]{Hep-Aeo}
+Cui M, Li L, Zhou M, et~al.
+\newblock Surrogate-assisted autoencoder-embedded evolutionary optimization algorithm to solve high-dimensional expensive problems\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2022, 26\allowbreak (4): 676-689.
+\newblock Doi: \doi{10.1109/Tevc.2021.3113923}.
+
+\bibitem[Sun et~al.(2017)Sun, Jin, Cheng, Ding, and Zeng]{2017sun}
+Sun C, Jin Y, Cheng R, et~al.
+\newblock Surrogate-assisted cooperative swarm optimization of high-dimensional expensive problems\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2017, 21\allowbreak (4): 644-660.
+\newblock Doi: \doi{10.1109/Tevc.2017.2675628}.
+
+\bibitem[Yao et~al.(2023)Yao, Zhao, Gong, and Zhu]{Yao2023}
+Yao X, Zhao Q, Gong D, et~al.
+\newblock Solution of large-scale many-objective optimization problems based on dimension reduction and solving knowledge-guided evolutionary algorithm\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2023, 27\allowbreak (3): 416-429.
+\newblock Doi: \doi{10.1109/Tevc.2021.3110780}.
+
+\bibitem[Knowles(2006)]{2006ParEgo}
+Knowles J.
+\newblock Parego: a hybrid algorithm with on-line landscape approximation for expensive multiobjective optimization problems\allowbreak[J].
+\newblock Ieee Transactions on Evolutionary Computation, 2006, 10\allowbreak (1): 50-66.
+
+\bibitem[Zhang et~al.(2010)Zhang, Liu, Tsang, and Virginas]{2010Moea/D-Ego}
+Zhang Q, Liu W, Tsang E, et~al.
+\newblock Expensive multiobjective optimization by moea/d with gaussian process model\allowbreak[J].
+\newblock Ieee Transactions on Evolutionary Computation, 2010, 14\allowbreak (3): 456-474.
+
+\bibitem[Song et~al.(2021)Song, Wang, He, and Jin]{9406113}
+Song Z, Wang H, He C, et~al.
+\newblock A kriging-assisted two-archive evolutionary algorithm for expensive many-objective optimization\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2021, 25\allowbreak (6): 1013-1027.
+\newblock Doi: \doi{10.1109/Tevc.2021.3073648}.
+
+\bibitem[Habib et~al.(2019)Habib, Singh, Chugh, Ray, and Miettinen]{8640100}
+Habib A, Singh H~K, Chugh T, et~al.
+\newblock A multiple surrogate assisted decomposition-based evolutionary algorithm for expensive multi/many-objective optimization\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2019, 23\allowbreak (6): 1000-1014.
+\newblock Doi: \doi{10.1109/Tevc.2019.2899030}.
+
+\bibitem[Wang et~al.(2023)Wang, Sun, Xie, Gao, and Akhtar]{Wang202320}
+Wang H, Sun C, Xie G, et~al.
+\newblock A performance approximation assisted expensive many-objective evolutionary algorithm\allowbreak[J/Ol].
+\newblock Information Sciences, 2023, 625: 20-35.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S002002552300018X}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2023.01.018}.
+
+\bibitem[Chugh et~al.(2018)Chugh, Jin, Miettinen, Hakanen, and Sindhya]{2018K-Rvea}
+Chugh T, Jin Y, Miettinen K, et~al.
+\newblock A surrogate-assisted reference vector guided evolutionary algorithm for computationally expensive many-objective optimization\allowbreak[J].
+\newblock Ieee Transactions on Evolutionary Computation, 2018, 22\allowbreak (1): 129-142.
+
+\bibitem[Pan et~al.(2019)Pan, He, Tian, Wang, Zhang, and Jin]{8281523}
+Pan L, He C, Tian Y, et~al.
+\newblock A classification-based surrogate-assisted evolutionary algorithm for expensive many-objective optimization\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2019, 23\allowbreak (1): 74-88.
+\newblock Doi: \doi{10.1109/Tevc.2018.2802784}.
+
+\bibitem[Zhang et~al.(2015)Zhang, Zhou, and Zhang]{2015Cps-Moea}
+Zhang J, Zhou A, Zhang G.
+\newblock A classification and pareto domination based multiobjective evolutionary algorithm\allowbreak[C/Ol]//\allowbreak
+2015 Ieee Congress on Evolutionary Computation (Cec).
+\newblock 2015: 2883-2890.
+\newblock Doi: \doi{10.1109/Cec.2015.7257247}.
+
+\bibitem[Ji et~al.(2023)Ji, Zhang, Gong, Sun, and Guo]{Mampso}
+Ji X, Zhang Y, Gong D, et~al.
+\newblock Multisurrogate-assisted multitasking particle swarm optimization for expensive multimodal problems\allowbreak[J/Ol].
+\newblock Ieee Transactions on Cybernetics, 2023, 53\allowbreak (4): 2516-2530.
+\newblock Doi: \doi{10.1109/Tcyb.2021.3123625}.
+
+\bibitem[Yahyaie et~al.(2011)Yahyaie and Filizadeh]{Yahyaie}
+Yahyaie F, Filizadeh S.
+\newblock A surrogate-model based multi-modal optimization algorithm\allowbreak[J/Ol].
+\newblock Engineering Optimization, 2011, 43\allowbreak (7): 779-799.
+\newblock \url{https://doi.org/10.1080/0305215X.2010.517528}.
+
+\bibitem[Zhen et~al.(2023)Zhen, Xiong, Gong, and Wang]{Zhen202382}
+Zhen H, Xiong S, Gong W, et~al.
+\newblock Neighborhood evolutionary sampling with dynamic repulsion for expensive multimodal optimization\allowbreak[J/Ol].
+\newblock Information Sciences, 2023, 630: 82-97.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S002002552300230X}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2023.02.049}.
+
+\bibitem[Gao et~al.(2023)Gao, Wei, Gong, and Yen]{Ddea}
+Gao W, Wei Z, Gong M, et~al.
+\newblock Solving expensive multimodal optimization problem by a decomposition differential evolution algorithm\allowbreak[J/Ol].
+\newblock Ieee Transactions on Cybernetics, 2023, 53\allowbreak (4): 2236-2246.
+\newblock Doi: \doi{10.1109/Tcyb.2021.3113575}.
+
+\bibitem[Ji et~al.(2021)Ji, Zhang, Gong, and Sun]{Dsacpso}
+Ji X, Zhang Y, Gong D, et~al.
+\newblock Dual-surrogate-assisted cooperative particle swarm optimization for expensive multimodal problems\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2021, 25\allowbreak (4): 794-808.
+\newblock Doi: \doi{10.1109/Tevc.2021.3064835}.
+
+\bibitem[Du et~al.(2023)Du, Ren, Wang, and Chen]{Du2023119745}
+Du W, Ren Z, Wang J, et~al.
+\newblock A surrogate-assisted evolutionary algorithm with knowledge transfer for expensive multimodal optimization problems\allowbreak[J/Ol].
+\newblock Information Sciences, 2023: 119745.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025523013300}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2023.119745}.
+
+\bibitem[Zhang et~al.(2023)Zhang, Li, and Wang]{wenrui2023}
+Zhang T, Li W, Wang R.
+\newblock Surrogated-assisted multimodal multi-objective optimization for hybrid renewable energy system\allowbreak[J/Ol].
+\newblock Complex {\&} Intelligent Systems, 2023, 9\allowbreak (4): 4075-4087.
+\newblock \url{https://doi.org/10.1007/s40747-022-00943-y}.
+
+\bibitem[Lv et~al.(2023)Lv, Niu, Li, and Sun]{Lv2023110724}
+Lv Z, Niu D, Li S, et~al.
+\newblock Multi-surrogate assisted pso with adaptive speciation for expensive multimodal multi-objective optimization\allowbreak[J/Ol].
+\newblock Applied Soft Computing, 2023, 147: 110724.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S1568494623007421}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.asoc.2023.110724}.
+
+\bibitem[Haftka(1991)]{Mfo}
+Haftka R~T.
+\newblock Combining global and local approximations\allowbreak[J/Ol].
+\newblock Aiaa Journal, 1991, 29\allowbreak (9): 1523-1525.
+\newblock \url{https://doi-org-s.libyc.nudt.edu.cn:443/10.2514/3.10768}.
+
+\bibitem[Leifsson et~al.(2016)Leifsson, Koziel, and Tesfahunegn]{Leifur2016}
+Leifsson L, Koziel S, Tesfahunegn Y~A.
+\newblock Multiobjective aerodynamic optimization by variable-fidelity models and response surface surrogates\allowbreak[J/Ol].
+\newblock Aiaa Journal, 2016, 54\allowbreak (2): 531-541.
+\newblock \url{https://doi.org/10.2514/1.J054128}.
+
+\bibitem[Gratiet et~al.(2015)Gratiet and Cannamela]{Cokriging}
+Gratiet L~L, Cannamela C.
+\newblock Cokriging-based sequential design strategies using fast cross-validation techniques for multi-fidelity computer codes\allowbreak[J/Ol].
+\newblock Technometrics, 2015, 57\allowbreak (3): 418-427.
+\newblock \url{https://doi-org-s.libyc.nudt.edu.cn:443/10.1080/00401706.2014.928233}.
+
+\bibitem[Wang et~al.(2022)Wang, Yao, Zhang, Adenutsi, Zhao, and Lai]{Wang2022110111}
+Wang L, Yao Y, Zhang T, et~al.
+\newblock A novel self-adaptive multi-fidelity surrogate-assisted multi-objective evolutionary algorithm for simulation-based production optimization\allowbreak[J/Ol].
+\newblock Journal of Petroleum Science and Engineering, 2022, 211: 110111.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0920410522000080}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.petrol.2022.110111}.
+
+\bibitem[Wang et~al.(2022)Wang, Yao, Zhang, Adenutsi, Zhao, and Lai]{Wang2022}
+Wang L, Yao Y, Zhang T, et~al.
+\newblock A rapid intelligent multi-fidelity surrogate-assisted multi-objective optimization method for water-flooding reservoir production optimization\allowbreak[J/Ol].
+\newblock Arabian Journal of Geosciences, 2022, 15\allowbreak (3): 262.
+\newblock \url{https://doi.org/10.1007/s12517-022-09575-5}.
+
+\bibitem[Yi et~al.(2020)Yi, Shen, and Shoemaker]{Baozhen2020}
+Yi J, Shen Y, Shoemaker C~A.
+\newblock A multi-fidelity rbf surrogate-based optimization framework for computationally expensive multi-modal problems with application to capacity planning of manufacturing systems\allowbreak[J/Ol].
+\newblock Structural and Multidisciplinary Optimization, 2020, 62\allowbreak (4): 1787-1807.
+\newblock \url{https://doi.org/10.1007/s00158-020-02575-7}.
+
+\bibitem[Zhou et~al.(2017)]{Zhou2017}
+Zhou Q, Wang Y, Choi S~K, et~al.
+\newblock International design engineering technical conferences and computers and information in engineering conference: Volume 2b: 43rd design automation conference\quad {An On-Line Multi-Fidelity Metamodel Assisted Multi-Objective Genetic Algorithm}\allowbreak[C/Ol].
+\newblock 2017: V02Bt03A037.
+\newblock \url{https://doi.org/10.1115/Detc2017-67813}.
+
+\bibitem[Wang et~al.(2022)Wang, Yao, Zhang, Adenutsi, Zhao, and Lai]{Wang2022intelligent}
+Wang L, Yao Y, Zhang L, et~al.
+\newblock An intelligent multi-fidelity surrogate-assisted multi-objective reservoir production optimization method based on transfer stacking\allowbreak[J/Ol].
+\newblock Computational Geosciences, 2022, 26\allowbreak (5): 1279-1295.
+\newblock \url{https://doi-org-s.libyc.nudt.edu.cn:443/10.1007/s10596-022-10160-8}.
+
+\bibitem[Kampolis et~al.(2007)Kampolis, Zymaris, Asouti, and Giannakoglou]{Kampolis}
+Kampolis I, Zymaris A, Asouti V~G, et~al.
+\newblock Multilevel optimization strategies based on metamodel-assisted evolutionary algorithms, for computationally expensive problems\allowbreak[C/Ol]//\allowbreak
+2007 Ieee Congress on Evolutionary Computation.
+\newblock 2007: 4116-4123.
+\newblock Doi: \doi{10.1109/Cec.2007.4425008}.
+
+\bibitem[Habib et~al.(2019)Habib, {K. Singh}, and Ray]{Habib2019537}
+Habib A, {K. Singh} H, Ray T.
+\newblock A multiple surrogate assisted multi/many-objective multi-fidelity evolutionary algorithm\allowbreak[J/Ol].
+\newblock Information Sciences, 2019, 502: 537-557.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0020025519305560}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.ins.2019.06.016}.
+
+\bibitem[Lim et~al.(2008)Lim, Ong, Jin, and Sendhoff]{lim}
+Lim D, Ong Y~S, Jin Y, et~al.
+\newblock Evolutionary optimization with dynamic fidelity computational models\allowbreak[C]//\allowbreak
+Huang D~S, Wunsch D~C, Levine D~S, et~al.
+\newblock Advanced Intelligent Computing Theories and Applications. With Aspects of Artificial Intelligence.
+\newblock Berlin, Heidelberg: Springer Berlin Heidelberg, 2008: 235-242.
+
+\bibitem[Dushatskiy et~al.(2019)Dushatskiy, Mendrik, Alderliesten, and Bosman]{ArkadiyDushatskiy}
+Dushatskiy A, Mendrik A~M, Alderliesten T, et~al.
+\newblock Convolutional neural network surrogate-assisted gomea\allowbreak[C/Ol]//\allowbreak
+Gecco '19: Proceedings of the Genetic and Evolutionary Computation Conference.
+\newblock New York, Ny, Usa: Association for Computing Machinery, 2019: 753–761.
+\newblock \url{https://doi.org/10.1145/3321707.3321760}.
+
+\bibitem[Bartz-Beielstein et~al.(2017)Bartz-Beielstein and Zaefferer]{47BartzBeielstein}
+Bartz-Beielstein T, Zaefferer M.
+\newblock Model-based methods for continuous and discrete global optimization\allowbreak[J/Ol].
+\newblock Applied Soft Computing, 2017, 55: 154-167.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S1568494617300546}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.asoc.2017.01.039}.
+
+\bibitem[Han et~al.(2021)Han and Wang]{LeiHan}
+Han L, Wang H.
+\newblock A random forest assisted evolutionary algorithm using competitive neighborhood search for expensive constrained combinatorial optimization\allowbreak[J/Ol].
+\newblock Memetic Computing, 2021, 13\allowbreak (1): 19-30.
+\newblock \url{https://doi.org/10.1007/s12293-021-00326-9}.
+
+\bibitem[Wang et~al.(2020)Wang and Jin]{46Hwang}
+Wang H, Jin Y.
+\newblock A random forest-assisted evolutionary algorithm for data-driven constrained multiobjective combinatorial optimization of trauma systems\allowbreak[J/Ol].
+\newblock Ieee Transactions on Cybernetics, 2020, 50\allowbreak (2): 536-549.
+\newblock Doi: \doi{10.1109/Tcyb.2018.2869674}.
+
+\bibitem[Gu et~al.(2021)Gu, Wang, Li, and Li]{GuQinghua}
+Gu Q, Wang Q, Li X, et~al.
+\newblock A surrogate-assisted multi-objective particle swarm optimization of expensive constrained combinatorial optimization problems\allowbreak[J/Ol].
+\newblock Knowledge-Based Systems, 2021, 223: 107049.
+\newblock \url{https://www.sciencedirect.com/science/article/pii/S0950705121003129}.
+\newblock Doi: \doi{https://doi.org/10.1016/j.knosys.2021.107049}.
+
+\bibitem[Suresh et~al.(2023)Suresh and Deb]{Suresh}
+Suresh A, Deb K.
+\newblock Machine learning based prediction of new pareto-optimal solutions from pseudo-weights\allowbreak[J/Ol].
+\newblock Ieee Transactions on Evolutionary Computation, 2023: 1-1.
+\newblock Doi: \doi{10.1109/Tevc.2023.3319494}.
+
+\end{thebibliography}
